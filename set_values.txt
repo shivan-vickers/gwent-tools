@@ -1,0 +1,45 @@
+------------------------
+Base Set
+------------------------
+Ermion
+Delirium
+Hefty Helge
+Menno Coehoorn
+Bribery
+Yennifer Invocation
+
+Total Value: 3600
+
+------------------------
+Merchants of Ofir
+------------------------
+Gedyneith
+Crowmother
+Magic Lamp
+Maraal
+
+Total Value: 3200
+
+------------------------
+Iron Judgement
+------------------------
+Raiding Fleet
+War Council
+Glynnis
+
+Total Value: 600
+
+------------------------
+Crimson Curse
+------------------------
+Tourney Joust
+Artorius Vigo
+
+Total Value: 230
+
+------------------------
+Novigrad
+------------------------
+
+Total Value: 0
+
