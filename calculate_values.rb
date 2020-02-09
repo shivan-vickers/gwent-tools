@@ -6,31 +6,26 @@ cards = YAML.load(File.read('cards.yaml'))
 
 sets = {
   base: {
-    name: 'Base Set',
-    value: 0,
-    cards: []
+    name: 'Base Set'
   },
   merch: {
-    name: 'Merchants of Ofir',
-    value: 0,
-    cards: []
+    name: 'Merchants of Ofir'
   },
   iron: {
-    name: 'Iron Judgement',
-    value: 0,
-    cards: []
+    name: 'Iron Judgement'
   },
   curse: {
-    name: 'Crimson Curse',
-    value: 0,
-    cards: []
+    name: 'Crimson Curse'
   },
   novi: {
-    name: 'Novigrad',
-    value: 0,
-    cards: []
+    name: 'Novigrad'
   }
 }
+
+sets.each_key do |k|
+  sets[k][:value] = 0
+  sets[k][:cards] = []
+end
 
 cards.each do |name, stats|
   set = stats[:set]
@@ -41,14 +36,14 @@ end
 
 file = File.open('set_values.txt', 'w')
 
-sets.each do |_, set|
+sets.each_value do |set|
   file.write "#{'-' * 24}\n"
   file.write "#{set[:name]}\n"
   file.write "#{'-' * 24}\n"
-  
+
   set[:cards].each do |card|
     file.write "#{card}\n"
   end
-  
+
   file.write "\nTotal Value: #{set[:value]}\n\n"
 end
