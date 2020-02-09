@@ -2,23 +2,23 @@
 Base Set
 ------------------------
 Ermion
-Delirium
 Hefty Helge
 Menno Coehoorn
 Bribery
 Yennifer Invocation
+Wild Boar of the Sea
+Hemdall
 
-Total Value: 3600
+Total Value: 5000
 
 ------------------------
 Merchants of Ofir
 ------------------------
 Gedyneith
 Crowmother
-Magic Lamp
 Maraal
 
-Total Value: 3200
+Total Value: 2400
 
 ------------------------
 Iron Judgement
@@ -26,16 +26,18 @@ Iron Judgement
 Raiding Fleet
 War Council
 Glynnis
+Morkvarg
+Dracoturtle
+Dagur Two Blades
 
-Total Value: 600
+Total Value: 3000
 
 ------------------------
 Crimson Curse
 ------------------------
-Tourney Joust
 Artorius Vigo
 
-Total Value: 230
+Total Value: 200
 
 ------------------------
 Novigrad

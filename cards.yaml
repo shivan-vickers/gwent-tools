@@ -11,15 +11,6 @@ Ermion:
 Raiding Fleet:
   :scraps: 200
   :set: :iron
-Delirium:
-  :scraps: 200
-  :set: :base
-Magic Lamp:
-  :scraps: 800
-  :set: :merch
-Tourney Joust:
-  :scraps: 30
-  :set: :curse
 War Council:
   :scraps: 200
   :set: :iron
@@ -44,4 +35,20 @@ Maraal:
 Glynnis:
   :scraps: 200
   :set: :iron
+Morkvarg:
+  :scraps: 800
+  :set: :iron
+Wild Boar of the Sea: 
+  :scraps: 800
+  :set: :base
+Hemdall: 
+  :scraps: 800
+  :set: :base
+Dracoturtle: 
+  :scraps: 800
+  :set: :iron
+Dagur Two Blades: 
+  :scraps: 800
+  :set: :iron
+
   
