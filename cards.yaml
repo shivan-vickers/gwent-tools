@@ -2,12 +2,6 @@
 Gedyneith:
   :scraps: 800
   :set: :merch
-Crowmother:
-  :scraps: 800
-  :set: :merch
-Ermion:
-  :scraps: 800
-  :set: :base
 Raiding Fleet:
   :scraps: 200
   :set: :iron
@@ -47,8 +41,8 @@ Hemdall:
 Dracoturtle: 
   :scraps: 800
   :set: :iron
-Dagur Two Blades: 
+Royal Decree: 
   :scraps: 800
-  :set: :iron
+  :set: :base
 
   
