@@ -31,7 +31,7 @@ cards.each do |name, stats|
   set = stats[:set]
 
   sets[set][:value] += stats[:scraps]
-  sets[set][:cards] << name
+  sets[set][:cards] << [name, stats[:scraps]]
 end
 
 file = File.open('set_values.txt', 'w')
@@ -42,7 +42,7 @@ sets.each_value do |set|
   file.write "#{'-' * 24}\n"
 
   set[:cards].each do |card|
-    file.write "#{card}\n"
+    file.write "#{card[0]} (#{card[1]})\n"
   end
 
   file.write "\nTotal Value: #{set[:value]}\n\n"
