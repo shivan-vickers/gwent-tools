@@ -1,16 +1,7 @@
 ---
-Gedyneith:
-  :scraps: 800
-  :set: :merch
-Raiding Fleet:
-  :scraps: 200
-  :set: :iron
 War Council:
   :scraps: 200
   :set: :iron
-Hefty Helge:
-  :scraps: 200
-  :set: :base
 Artorius Vigo:
   :scraps: 200
   :set: :curse
@@ -29,20 +20,72 @@ Maraal:
 Glynnis:
   :scraps: 200
   :set: :iron
+Dracoturtle:
+  :scraps: 800
+  :set: :iron
+Avallac'h:
+  :scraps: 800
+  :set: :base
+Vabjorn:
+  :scraps: 800
+  :set: :base
+Birna Bran:
+  :scraps: 800
+  :set: :base
+Triss Telekenesis:
+  :scraps: 800
+  :set: :base
+Imlerith:
+  :scraps: 800
+  :set: :base
+Regis Bloodlust:
+  :scraps: 800
+  :set: :curse
+Marching Orders:
+  :scraps: 200
+  :set: :base
+Whispess Tribute:
+  :scraps: 800
+  :set: :base
+Pugo:
+  :scraps: 200
+  :set: :novi
+Queen of the Night:
+  :scraps: 200
+  :set: :curse
+Adrenaline Rush:
+  :scraps: 80
+  :set: :base
+Fleder:
+  :scraps: 80
+  :set: :base
+Natural Selection:
+  :scraps: 30
+  :set: :iron
+Yrden:
+  :scraps: 800
+  :set: :base
+Adda Striga:
+  :scraps: 200
+  :set: :base
+Roach:
+  :scraps: 200
+  :set: :base
+Affan:
+  :scraps: 800
+  :set: :iron
+Ramon:
+  :scraps: 800
+  :set: :iron
+Damien:
+  :scraps: 800
+  :set: :curse
+Stefan:
+  :scraps: 800
+  :set: :base
+Gedyneith:
+  :scraps: 800
+  :set: :merch
 Morkvarg:
-  :scraps: 800
-  :set: :iron
-Wild Boar of the Sea: 
-  :scraps: 800
+  :scraps: 200
   :set: :base
-Hemdall: 
-  :scraps: 800
-  :set: :base
-Dracoturtle: 
-  :scraps: 800
-  :set: :iron
-Royal Decree: 
-  :scraps: 800
-  :set: :base
-
-  

@@ -1,44 +1,65 @@
 ------------------------
 Base Set
 ------------------------
-Hefty Helge (200)
 Menno Coehoorn (800)
 Bribery (800)
 Yennifer Invocation (800)
-Wild Boar of the Sea (800)
-Hemdall (800)
-Royal Decree (800)
+Avallac'h (800)
+Vabjorn (800)
+Birna Bran (800)
+Triss Telekenesis (800)
+Imlerith (800)
+Marching Orders (200)
+Whispess Tribute (800)
+Adrenaline Rush (80)
+Fleder (80)
+Yrden (800)
+Adda Striga (200)
+Roach (200)
+Stefan (800)
+Morkvarg (200)
 
-Total Value: 5000
+Total Value: 9760
 
 ------------------------
 Merchants of Ofir
 ------------------------
-Gedyneith (800)
 Maraal (800)
+Gedyneith (800)
 
 Total Value: 1600
 
 ------------------------
 Iron Judgement
 ------------------------
-Raiding Fleet (200)
 War Council (200)
 Glynnis (200)
-Morkvarg (800)
 Dracoturtle (800)
+Natural Selection (30)
+Affan (800)
+Ramon (800)
 
-Total Value: 2200
+Total Value: 2830
 
 ------------------------
 Crimson Curse
 ------------------------
 Artorius Vigo (200)
+Regis Bloodlust (800)
+Queen of the Night (200)
+Damien (800)
+
+Total Value: 2000
+
+------------------------
+Novigrad
+------------------------
+Pugo (200)
 
 Total Value: 200
 
 ------------------------
-Novigrad
+Thronebreaker
 ------------------------
 
 Total Value: 0
